@@ -1,6 +1,6 @@
 class MyQueue {
-    private Stack<Integer> stack1; // Main stack for enqueue operation
-    private Stack<Integer> stack2; // Auxiliary stack for dequeue operation
+    private Stack<Integer> stack1;// Main stack for enqueue operation
+    private Stack<Integer> stack2;// Auxiliary stack for dequeue operation
 
     public MyQueue() {
         stack1 = new Stack<>();
